@@ -7,5 +7,5 @@ describe('ChessboardView', function() {
 
   it('should exist', function() {
     expect(view).to.be.ok;
-  });
+  });		
 });
